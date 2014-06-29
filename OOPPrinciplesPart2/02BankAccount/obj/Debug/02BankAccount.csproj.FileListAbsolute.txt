@@ -1,0 +1,6 @@
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\bin\Debug\02BankAccount.exe.config
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\obj\Debug\02BankAccount.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\bin\Debug\02BankAccount.exe
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\bin\Debug\02BankAccount.pdb
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\obj\Debug\02BankAccount.exe
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\02BankAccount\obj\Debug\02BankAccount.pdb

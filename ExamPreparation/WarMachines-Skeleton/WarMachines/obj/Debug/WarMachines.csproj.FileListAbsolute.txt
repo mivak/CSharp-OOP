@@ -1,0 +1,12 @@
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\Users\Misho\Desktop\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe.config
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.exe
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.exe
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\bin\Debug\WarMachines.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\WarMachines-Skeleton\WarMachines\obj\Debug\WarMachines.csprojResolveAssemblyReference.cache

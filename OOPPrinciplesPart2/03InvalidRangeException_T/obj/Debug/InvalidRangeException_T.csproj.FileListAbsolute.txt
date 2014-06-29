@@ -1,0 +1,1 @@
+C:\TelerikAcademy\OOP\OOP Principles 2\OOPPrinciplesPart2\03InvalidRangeException_T\bin\Debug\InvalidRangeException_T.exe.config

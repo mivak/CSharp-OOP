@@ -1,0 +1,12 @@
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\Users\Misho\Desktop\TradeAndTravel-Skeleton\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.exe
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.exe
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\bin\Debug\TradeAndTravel.pdb
+C:\TelerikAcademy\OOP\ExamPreparation\TradeAndTravel\TradeAndTravel\obj\Debug\TradeAndTravel.csprojResolveAssemblyReference.cache

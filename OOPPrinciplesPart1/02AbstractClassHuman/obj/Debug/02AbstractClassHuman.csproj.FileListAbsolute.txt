@@ -1,0 +1,6 @@
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\bin\Debug\02AbstractClassHuman.exe.config
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\obj\Debug\02AbstractClassHuman.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\bin\Debug\02AbstractClassHuman.exe
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\bin\Debug\02AbstractClassHuman.pdb
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\obj\Debug\02AbstractClassHuman.exe
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\02AbstractClassHuman\obj\Debug\02AbstractClassHuman.pdb

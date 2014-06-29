@@ -1,0 +1,6 @@
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\bin\Debug\03Animals.exe.config
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\obj\Debug\03Animals.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\bin\Debug\03Animals.exe
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\bin\Debug\03Animals.pdb
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\obj\Debug\03Animals.exe
+C:\TelerikAcademy\OOP\OOP Principles\OOPPrinciplesPart1\03Animals\obj\Debug\03Animals.pdb
