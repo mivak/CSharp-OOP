@@ -1,0 +1,6 @@
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe.config
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.exe
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\bin\Debug\CommonTypeSystem.pdb
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.exe
+C:\TelerikAcademy\OOP\Common Type System\CommonTypeSystem\CommonTypeSystem\obj\Debug\CommonTypeSystem.pdb
